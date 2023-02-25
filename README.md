@@ -1,4 +1,4 @@
-<img align="center" height="350" width= "1000" src="https://drive.google.com/uc?id=1Zg-BS7YIwdgpHfk4_p2_ks9QOqqrQAuE" alt="MasterHead">
+<img align="center" height="300" width= "1000" src="https://drive.google.com/uc?id=1Zg-BS7YIwdgpHfk4_p2_ks9QOqqrQAuE" alt="MasterHead">
 
 <h1 align="center">Hi 👋, I'm Samet</h1>
 <h3 align="center">A passionate Data Scientist from Türkiye</h3>
