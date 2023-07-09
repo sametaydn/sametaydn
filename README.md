@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📄 Know about my experiences [https://t.ly/FeW0](https://t.ly/FeW0)
+- 📄 Know about my experiences [https://shorturl.at/fjRV2]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
