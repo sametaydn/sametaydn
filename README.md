@@ -9,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sametaydn&label=Profile%20views&color=0e75b6&style=flat" alt="sametaydn" /> </p>
 
-- 🔭 I’m currently working on **Optimization Algorithms**
+- 🔭 I’m currently part-time working at **Tatilbudur.com**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently studying **Artificial Intelligence at Politecnico di Milano**
 
-- 📄 Know about my experiences [https://shorturl.at/fjRV2]
+- 📄 Know about my experiences (https://drive.google.com/file/d/1jImnm8wzKubdprXR2-t_xN3UnsfWF0Hj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
