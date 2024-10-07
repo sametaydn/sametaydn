@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
 <h3 align="center">A passionate AI Engineer from Milano, Italy</h3>
 
-<img align="right" alt="Coding" width="280" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
-
+<img align="right" alt="Coding" width="140" height="140" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sametaydn&label=Profile%20views&color=0e75b6&style=flat" alt="sametaydn" /> </p>
 
