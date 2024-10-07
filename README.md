@@ -1,4 +1,4 @@
-<img align="center" height="300" width= "1000" src="https://drive.google.com/uc?id=1Zg-BS7YIwdgpHfk4_p2_ks9QOqqrQAuE" alt="MasterHead">
+<img align="center" height="300" width= "1000" src="https://media.licdn.com/dms/image/C4D12AQHzV2ldBX8G9g/article-cover_image-shrink_720_1280/0/1567163016962?e=2147483647&v=beta&t=Ly1gYkGJ9io2YH3-Tj6-Z2yzjk6oXjiVv7qZfXMU704" alt="MasterHead">
 
 <h1 align="center">Hi 👋, I'm Samet</h1>
 <h3 align="center">A passionate AI Engineer from Milano, Italy</h3>
