@@ -3,17 +3,17 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
 <h3 align="center">A passionate Data Scientist from Türkiye</h3>
 
-<img align="right" alt="Coding" width="280" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw0BXve3cp6HfEkPMb0JzX37&ust=1728378553949000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiC6P_1-4gDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="280" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw0BXve3cp6HfEkPMb0JzX37&ust=1728378553949000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiC6P_1-4gDFQAAAAAdAAAAABAE](https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif)">
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sametaydn&label=Profile%20views&color=0e75b6&style=flat" alt="sametaydn" /> </p>
 
-- 🔭 I’m currently working on **Optimization Algorithms**
+- 🔭 I’m currently part-time working at **Tatilbudur.com**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently studying **Msc. Artificial Intelligence at Politecnico di Milano**
 
-- 📄 Know about my experiences [https://shorturl.at/fjRV2]
+- 📄 Know about my experiences (https://drive.google.com/file/d/1jImnm8wzKubdprXR2-t_xN3UnsfWF0Hj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
